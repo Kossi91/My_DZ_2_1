@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My_DZ_2_1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_input">Введите тест...</string>
+    <string name="text_send">Send</string>
+    <string name="text_Input_password">Введите пароль</string>
+    <string name="text_tu_come_in">Войти</string>
+    <string name="text_input_name">Введите ваше имя</string>
+</resources>
